@@ -8,7 +8,7 @@ python3 main.py
 
 # App project
 
-´´´sh
+´´´ py
 git clone
 cd app
 soruce .envm/bin/activate
