@@ -8,10 +8,10 @@ python3 main.py
 
 # App project
 
-´´´ py
+``` sh
 git clone
 cd app
 soruce .envm/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
-´´´
+```
